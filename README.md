@@ -1,13 +1,14 @@
 
 # Modelos de zonificación de aptitud
 
-![Select Criterio](Images/MODELO_PIÑA.jpg)
-
-Los modelos de zonificación de aptitud son herramientas de análisis espacial que permite identificar y delimitar las áreas con aptitud para el cultivo de piña comercial a 
-escala 1:100.000, como base para el desarrollo técnico, ambiental y competitivo de esta actividad. La Zonificación, considera acercamientos 
+Los modelos de zonificación de aptitud son herramientas de análisis espacial que permiten identificar y delimitar las áreas con aptitud para los diferentes cultivos evaluados por la UPRA, a 
+escala 1:100.000, como base para el desarrollo técnico, ambiental y competitivo de esta actividad. Las Zonificaciónes, consideran acercamientos 
 metodológicos e información proveniente de diferentes entidades, incorporando los componentes físicos, sociecosistémicos y socioeconómicos, 
-así como los lineamientos legales y normativos que inciden en la delimitación de áreas con aptitud para plantaciones de piña. 
+así como los lineamientos legales y normativos que inciden en la delimitación de áreas con aptitud para las diferentes plantaciones.
+
 Para más información sobre la metodología, por favor consulte la información de [Zonificación](https://www.upra.gov.co/web/guest/uso-y-adecuacion-de-tierras/evaluacion-de-tierras/zonificacion)
+
+![Modelo piña](Images/MODELO_PIÑA.jpg)
 
 Estos modelos de procesamiento de información geospacial **hacen uso de scripts de geoprocesamiento optimizados de python**. Los cuales fueron desarrollados por la UPRA con el propósito de **agilizar los procesos de análisis realizados por la entidad**.
 
@@ -22,7 +23,7 @@ Estos modelos de análisis para la obtención de variables y criterios por compo
 ## Instalación
 
 El proceso de instalación es el siguiente:
-**
+
 1. Descargar los scripts de geoprocesamiento optimizados de python, situando el directorio **SCRIPTS_ANALISIS** dentro de la raíz de la unidad **C:** o la raíz de otra unidad lógica según aplique.
 
 2. Descargar el `Modelo`:
