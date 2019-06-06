@@ -1,7 +1,7 @@
 
 # Modelos de zonificación de aptitud
 
-![Select Criterio](imagenes/MODELO_PIÑA.jpg)
+![Select Criterio](Images/MODELO_PIÑA.jpg)
 
 Los modelos de zonificación de aptitud son herramientas de análisis espacial que permite identificar y delimitar las áreas con aptitud para el cultivo de piña comercial a 
 escala 1:100.000, como base para el desarrollo técnico, ambiental y competitivo de esta actividad. La Zonificación, considera acercamientos 
@@ -13,7 +13,7 @@ Estos modelos de procesamiento de información geospacial **hacen uso de scripts
 
 **NOTA:** Se recomienda visitar la información del repositorio de [Herramientas_Optimizadas](https://github.com/UpraAnalisis/Herramientas_Optimizadas) antes de hacer uso de los modelos de geoprocesamiento.
 
-![Select Criterio](imagenes/modelo_pina2.png)
+![Select Criterio](Images/modelo_pina2.png)
 
 # Versionamiento
 Estos modelos de análisis para la obtención de variables y criterios por componente. Han sido desarrollados bajo la versión de ArcGIS Desktop 10.5.1
@@ -29,14 +29,14 @@ El proceso de instalación es el siguiente:
 
 Para descargar haga clic en el modelo de su elección y posteriormente haga clic en el botón download, tal y como se muestra en la siguiente imagen para el modelo de geoprocesamiento del cultivo de piña.
 
-![Selección modelo piña](imagenes/descarga_pinia.jpg)
-![Descarga modelo piña](imagenes/descarga_pinia1.jpg)
+![Selección modelo piña](Images/descarga_pinia.jpg)
+![Descarga modelo piña](Images/descarga_pinia1.jpg)
 
 3. Ir a ArcGIS y en hacer doble clic sobre el toolbox descargado. Es probable que toque esperar unos cuantos minutos mientras se redireccionan todos los modelos y los scripts de geoprocesamiento optimizados de python. 
 
 3. Cerciórese de que no parece ninguna x sobre alguno de los modelos, y que estos se visualizan de la siguiente forma:
 
-![Modelo_funcional](imagenes/modelos_pinia.JPG)
+![Modelo_funcional](Images/modelos_pinia.JPG)
 
 **Nota:** En caso de que aparezca la x sobre los modelos diríjase a la sección de solución de problemas del repositorio de [Herramientas_Optimizadas](https://github.com/UpraAnalisis/Herramientas_Optimizadas#soluci%C3%B3n-de-problemas) 
 
