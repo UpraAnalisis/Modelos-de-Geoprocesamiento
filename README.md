@@ -24,7 +24,7 @@ Estos modelos de análisis para la obtención de variables y criterios por compo
 
 El proceso de instalación es el siguiente:
 
-1. Descargar los scripts de geoprocesamiento optimizados de python, situando el directorio **SCRIPTS_ANALISIS** dentro de la raíz de la unidad **C:** o la raíz de otra unidad lógica según aplique.
+1. Descargar los scripts de geoprocesamiento optimizados de python, situando el directorio **SCRIPTS_ANALISIS** dentro de la raíz de la unidad **C:** o la raíz de otra unidad lógica según aplique. Para más información siga las intrucciones descritas en la sección de intrucciones de uso del repositorio de [Herramientas_Optimizadas](https://github.com/UpraAnalisis/Herramientas_Optimizadas#instrucciones-de-uso)  
 
 2. Descargar el `Modelo`:
 
